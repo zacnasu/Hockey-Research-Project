@@ -1,0 +1,610 @@
+﻿Date,Home Team,Away Team,Period,Team,Type,Bench Side,Change,Behind Net,Retrieved,SOG,SA
+2019-11-14,Colarado,Boston,3,Boston,S,N,N,Y,N,0,0
+2019-11-14,Colarado,Boston,3,Colarado,S,N,N,N,Y,0,1
+2019-11-14,Colarado,Boston,3,Boston,S,Y,N,N,Y,0,2
+2019-11-14,Colarado,Boston,3,Boston,S,Y,N,N,Y,0,2
+2019-11-14,Colarado,Boston,3,Colarado,S,Y,N,N,N,0,0
+2019-11-14,Colarado,Boston,3,Boston,S,N,N,N,Y,0,1
+2019-11-14,Colarado,Boston,3,Boston,S,Y,Y,N,Y,0,0
+2019-03-24,New York I,Arizona,1,New York I,R,Y,N,N,Y,1,3
+2019-03-24,New York I,Arizona,1,Arizona,R,N,N,N,Y,1,2
+2019-03-24,New York I,Arizona,1,Arizona,C,Y,Y,N,N,0,0
+2019-03-24,New York I,Arizona,1,New York I,R,Y,N,N,N,0,0
+2019-03-24,New York I,Arizona,1,Arizona,R,N,N,N,Y,0,1
+2019-03-24,New York I,Arizona,1,Arizona,S,Y,Y,Y,N,0,0
+2019-03-24,New York I,Arizona,1,Arizona,R,N,N,Y,N,0,0
+2019-03-24,New York I,Arizona,1,New York I,S,Y,N,N,Y,0,2
+2019-03-24,New York I,Arizona,1,New York I,R,Y,N,N,Y,1,1
+2019-03-24,New York I,Arizona,1,Arizona,S,Y,N,N,Y,0,0
+2019-03-24,New York I,Arizona,1,New York I,R,N,N,N,Y,0,0
+2019-03-24,New York I,Arizona,1,New York I,S,Y,N,Y,N,0,0
+2019-03-24,New York I,Arizona,1,Arizona,C,N,Y,N,N,0,0
+2018-10-23,Edmonton,Pittsburgh,2,Pittsburgh,S,N,N,N,Y,0,1
+2018-10-23,Edmonton,Pittsburgh,2,Edmonton,S,N,Y,Y,N,0,0
+2018-10-23,Edmonton,Pittsburgh,2,Pittsburgh,S,Y,N,Y,N,0,0
+2018-10-23,Edmonton,Pittsburgh,2,Edmonton,S,N,N,Y,Y,2,3
+2018-10-23,Edmonton,Pittsburgh,2,Pittsburgh,S,Y,N,Y,N,0,0
+2018-10-23,Edmonton,Pittsburgh,2,Edmonton,S,Y,Y,Y,N,0,0
+2018-10-23,Edmonton,Pittsburgh,2,Edmonton,S,N,N,Y,N,0,0
+2018-10-23,Edmonton,Pittsburgh,2,Pittsburgh,S,N,Y,N,N,0,0
+2018-10-23,Edmonton,Pittsburgh,2,Edmonton,S,Y,N,N,N,0,0
+2018-10-23,Edmonton,Pittsburgh,2,Edmonton,S,Y,N,Y,N,0,0
+2018-10-23,Edmonton,Pittsburgh,2,Pittsburgh,S,N,N,N,N,0,0
+2018-10-23,Edmonton,Pittsburgh,2,Edmonton,S,Y,N,Y,N,0,0
+2018-10-23,Edmonton,Pittsburgh,2,Edmonton,S,Y,Y,Y,N,0,0
+2018-10-23,Edmonton,Pittsburgh,2,Pittsburgh,R,Y,N,N,Y ,0,1
+2018-10-23,Edmonton,Pittsburgh,2,Edmonton,S,N,N,Y,N,0,0
+2018-10-23,Edmonton,Pittsburgh,2,Pittsburgh,S,N,N,Y,N,0,0
+2018-10-23,Edmonton,Pittsburgh,2,Pittsburgh,R,N,N,N,Y,0,1
+2018-10-23,Edmonton,Pittsburgh,2,Pittsburgh,R,N,N,N,Y,0,1
+2018-10-23,Edmonton,Pittsburgh,2,Edmonton,R,N,N,N,N,0,0
+2018-12-18,Chicago,Nashville,1,Chicago,S,N,Y,N,N,0,0
+2018-12-18,Chicago,Nashville,1,Nashville ,S,N,Y,N,N,0,0
+2018-12-18,Chicago,Nashville,1,Chicago,R,N,N,Y,N,0,0
+2018-12-18,Chicago,Nashville,1,Nashville ,S,Y,N,N,N,0,0
+2018-12-18,Chicago,Nashville,1,Chicago,S,Y,N,N,Y,0,1
+2018-12-18,Chicago,Nashville,1,Nashville ,S,N,Y,Y,N,0,0
+2018-12-18,Chicago,Nashville,1,Nashville ,S,N,N,Y,Y,0,2
+2018-12-18,Chicago,Nashville,1,Nashville ,S,Y,N,N,Y,1,1
+2018-12-18,Chicago,Nashville,1,Chicago,S,N,Y,N,N,0,0
+2018-12-18,Chicago,Nashville,1,Chicago,S,Y,Y,Y,N,0,0
+2018-12-18,Chicago,Nashville,1,Chicago,R,N,N,Y,N,0,0
+2018-12-18,Chicago,Nashville,1,Nashville ,S,N,N,N,N,0,0
+2018-12-18,Chicago,Nashville,1,Nashville ,C,N,N,N,Y,1,1
+2018-12-18,Chicago,Nashville,1,Nashville ,R,N,N,N,Y,0,1
+2018-12-18,Chicago,Nashville,1,Nashville ,S,N,Y,N,N,0,0
+2018-12-18,Chicago,Nashville,1,Nashville ,R,N,N,N,Y,0,0
+2018-12-18,Chicago,Nashville,1,Chicago,S,Y,N,Y,N,0,0
+2019-12-18,Chicago,Nashville,1,Nashville ,C,N,N,N,Y,1,1
+2018-11-09,Anaheim,Minnesota,3,Minnesota,R,N,N,N,Y,0,0
+2018-11-09,Anaheim,Minnesota,3,Minnesota,R,N,Y,N,N,0,0
+2018-11-09,Anaheim,Minnesota,3,Minnesota,S,Y,Y,Y,N,0,0
+2018-11-09,Anaheim,Minnesota,3,Minnesota,S,Y,N,N,Y,0,1
+2018-11-09,Anaheim,Minnesota,3,Minnesota,S,N,N,N,Y,0,0
+2018-11-09,Anaheim,Minnesota,3,Anaheim,R,N,N,N,Y,0,0
+2018-11-09,Anaheim,Minnesota,3,Anaheim,R,N,N,Y,N,0,0
+2018-11-09,Anaheim,Minnesota,3,Minnesota,S,N,Y,N,N,0,0
+2018-11-09,Anaheim,Minnesota,3,Minnesota,S,N,N,N,Y,0,1
+2018-11-09,Anaheim,Minnesota,3,Minnesota,S,Y,Y,Y,N,0,0
+2018-11-09,Anaheim,Minnesota,3,Anaheim,R,Y,Y,Y,N,0,0
+2018-11-09,Anaheim,Minnesota,3,Minnesota,S,Y,N,Y,Y,0,0
+2019-03-03,Columbus,Winnipeg,2,Winnipeg,S,Y,N,Y,Y,1,2
+2019-03-03,Columbus,Winnipeg,2,Columbus,S,N,N,Y,N,0,0
+2019-03-03,Columbus,Winnipeg,2,Columbus,S,N,N,Y,N,0,0
+2019-03-03,Columbus,Winnipeg,2,Columbus,S,N,N,N,N,0,0
+2019-03-03,Columbus,Winnipeg,2,Columbus,S,N,N,N,Y,0,1
+2019-03-03,Columbus,Winnipeg,2,Winnipeg,R,N,N,N,Y,1,1
+2019-03-03,Columbus,Winnipeg,2,Columbus,R,N,N,N,N,0,0
+2019-03-03,Columbus,Winnipeg,2,Winnipeg,S,N,N,N,Y,1,1
+2019-03-03,Columbus,Winnipeg,2,Columbus,S,N,N,Y,N,0,0
+2019-03-03,Columbus,Winnipeg,2,Winnipeg,R,Y,N,N,Y,0,0
+2019-03-03,Columbus,Winnipeg,2,Winnipeg,S,N,N,Y,N,0,0
+2019-03-03,Columbus,Winnipeg,2,Columbus,S,Y,N,N,Y,0,0
+2019-03-03,Columbus,Winnipeg,2,Columbus,S,N,N,N,Y,1,2
+2019-03-03,Columbus,Winnipeg,2,Columbus,S,N,N,Y,Y,0,0
+2019-03-03,Columbus,Winnipeg,2,Columbus ,S,N,N,N,N,0,0
+2019-03-03,Columbus,Winnipeg,2,Winnipeg,C,N,Y,N,N,0,0
+2019-03-03,Columbus,Winnipeg,2,Columbus,S,Y,Y,N,N,0,0
+2019-03-03,Columbus,Winnipeg,2,Columbus,S,Y,N,N,N,0,0
+2019-03-03,Columbus,Winnipeg,2,Columbus,C,Y,Y,N,Y,0,0
+2019-02-19,Montreal,Columbus,2,Montreal,S,Y,Y,Y,N,0,0
+2019-02-19,Montreal,Columbus,2,Montreal,S,Y,N,N,Y,1,1
+2019-02-19,Montreal,Columbus,2,Columbus,R,N,N,Y,N,0,0
+2019-02-19,Montreal,Columbus,2,Montreal,C,Y,N,N,Y,0,0
+2019-02-19,Montreal,Columbus,2,Montreal,S,N,Y,Y,N,0,0
+2019-02-19,Montreal,Columbus,2,Columbus,S,N,N,N,N,0,0
+2019-02-19,Montreal,Columbus,2,Columbus,S,Y,Y,Y,N,0,0
+2019-02-19,Montreal,Columbus,2,Montreal,S,N,N,Y,N,0,0
+2019-02-19,Montreal,Columbus,2,Montreal,S,Y,Y,Y,N,0,0
+2019-02-19,Montreal,Columbus,2,Columbus,S,N,N,Y,Y,0,1
+2019-02-19,Montreal,Columbus,2,Columbus,R,N,N,N,N,0,0
+2019-02-19,Montreal,Columbus,2,Columbus,S,N,N,N,N,0,0
+2019-02-19,Montreal,Columbus,2,Columbus,C,Y,N,Y,Y,0,1
+2019-02-19,Montreal,Columbus,2,Columbus,C,N,N,N,N,0,0
+2019-02-19,Montreal,Columbus,2,Montreal,S,N,Y,Y,N,0,0
+2019-02-19,Montreal,Columbus,2,Columbus,C,N,N,N,Y,0,1
+2019-02-19,Montreal,Columbus,2,Montreal,S,N,N,N,N,0,0
+2019-02-19,Montreal,Columbus,2,Montreal,C,Y,Y,N,N,0,0
+2019-02-19,Montreal,Columbus,2,Columbus,S,N,N,N,N,0,0
+2019-02-19,Montreal,Columbus,2,Montreal,R,Y,N,N,Y,0,0
+2019-02-19,Montreal,Columbus,2,Columbus,C,N,N,N,Y,0,0
+2019-02-25,Vancouver,Anaheim,3,Vancouver,S,Y,N,Y,N,0,0
+2019-02-25,Vancouver,Anaheim,3,Anaheim,S,Y,N,Y,Y,0,0
+2019-02-25,Vancouver,Anaheim,3,Anaheim,S,N,N,N,N,0,0
+2019-02-25,Vancouver,Anaheim,3,Vancouver,S,Y,N,N,Y,0,1
+2019-02-25,Vancouver,Anaheim,3,Vancouver,R,N,Y,N,N,0,0
+2019-02-25,Vancouver,Anaheim,3,Anaheim,S,Y,N,N,Y,1,1
+2019-02-25,Vancouver,Anaheim,3,Vancouver,R,Y,N,Y,N,0,0
+2019-02-25,Vancouver,Anaheim,3,Anaheim,S,N,N,N,Y,0,0
+2019-02-25,Vancouver,Anaheim,3,Vancouver,S,N,N,N,N,0,0
+2019-02-25,Vancouver,Anaheim,3,Anaheim,R,Y,N,Y,N,0,0
+2019-02-25,Vancouver,Anaheim,3,Vancouver,C,N,N,N,N,0,0
+2019-02-25,Vancouver,Anaheim,3,Vancouver,C,Y,Y,N,Y,0,0
+2019-02-25,Vancouver,Anaheim,3,Vancouver,S,N,N,N,Y,0,1
+2019-02-25,Vancouver,Anaheim,3,Vancouver,S,N,N,N,N,0,0
+2019-01-30,Dallas,Buffalo,1,Buffalo,S,Y,N,Y,N,0,0
+2019-01-30,Dallas,Buffalo,1,Dallas,R,N,Y,N,N,0,0
+2019-01-30,Dallas,Buffalo,1,Buffalo,R,Y,N,N,N,0,0
+2019-01-30,Dallas,Buffalo,1,Dallas,C,N,N,N,N,0,0
+2019-01-30,Dallas,Buffalo,1,Dallas,C,N,N,N,N,0,0
+2019-01-30,Dallas,Buffalo,1,Buffalo,C,N,N,N,Y,0,1
+2019-01-30,Dallas,Buffalo,1,Buffalo,R,N,Y,N,N,0,0
+2019-01-30,Dallas,Buffalo,1,Buffalo,S,Y,N,Y,N,0,0
+2019-01-30,Dallas,Buffalo,1,Dallas,S,Y,N,N,Y,1,1
+2019-01-30,Dallas,Buffalo,1,Buffalo,R,Y,N,N,N,0,0
+2019-01-30,Dallas,Buffalo,1,Buffalo,S,Y,N,N,Y,1,1
+2019-01-30,Dallas,Buffalo,1,Buffalo,S,Y,N,N,Y,0,0
+2019-01-30,Dallas,Buffalo,1,Buffalo,S,N,N,N,Y,0,1
+2019-01-30,Dallas,Buffalo,1,Buffalo,S,N,Y,N,N,0,0
+2018-12-06,Toronto,Detroit,2,Detroit,S,Y,N,Y,N,0,0
+2018-12-06,Toronto,Detroit,2,Toronto,S,N,N,N,Y,0,1
+2018-12-06,Toronto,Detroit,2,Detroit,R,N,N,N,N,0,0
+2018-12-06,Toronto,Detroit,2,Toronto,S,Y,Y,Y,N,0,0
+2018-12-06,Toronto,Detroit,2,Detroit,S,Y,N,N,Y,1,3
+2018-12-06,Toronto,Detroit,2,Detroit,S,Y,Y,N,N,0,0
+2018-12-06,Toronto,Detroit,2,Toronto,S,N,Y,Y,N,0,0
+2018-12-06,Toronto,Detroit,2,Detroit,R,N,N,N,N,0,0
+2018-12-06,Toronto,Detroit,2,Toronto,R,Y,N,N,Y,1,2
+2018-12-06,Toronto,Detroit,2,Detroit,R,Y,N,N,Y,0,1
+2018-12-06,Toronto,Detroit,2,Detroit,S,N,N,N,N,0,0
+2018-12-06,Toronto,Detroit,2,Detroit,S,Y,Y,N,N,0,0
+2018-12-06,Toronto,Detroit,2,Detroit,S,N,N,Y,N,0,0
+2018-12-06,Toronto,Detroit,2,Detroit,S,Y,N,Y,N,0,0
+2018-12-06,Toronto,Detroit,2,Detroit,S,N,N,N,Y,1,2
+2019-03-02,Columbus,Edmonton,3,Columbus,R,N,N,N,Y,0,0
+2019-03-02,Columbus,Edmonton,3,Edmonton,S,N,Y,Y,Y,1,1
+2019-03-02,Columbus,Edmonton,3,Edmonton,S,Y,Y,Y,N,0,0
+2019-03-02,Columbus,Edmonton,3,Columbus,S,N,N,Y,Y,0,0
+2019-03-02,Columbus,Edmonton,3,Edmonton,S,N,N,Y,Y,0,0
+2019-03-02,Columbus,Edmonton,3,Edmonton,S,N,Y,N,N,0,0
+2019-03-02,Columbus,Edmonton,3,Columbus,S,Y,N,N,Y,1,1
+2019-03-02,Columbus,Edmonton,3,Edmonton,S,N,N,N,N,0,0
+2019-03-02,Columbus,Edmonton,3,Columbus,R,N,N,Y,N,0,0
+2019-03-02,Columbus,Edmonton,3,Columbus,R,N,N,N,N,0,0
+2019-03-02,Columbus,Edmonton,3,Edmonton,S,N,N,Y,Y,1,1
+2019-03-02,Columbus,Edmonton,3,Edmonton,S,N,N,N,Y,1,1
+2019-03-02,Columbus,Edmonton,3,Edmonton,R,Y,N,Y,Y,0,0
+2019-03-02,Columbus,Edmonton,3,Columbus,R,N,Y,Y,N,0,0
+2019-03-02,Columbus,Edmonton,3,Columbus,R,N,N,N,N,0,0
+2019-03-02,Columbus,Edmonton,3,Columbus,R,N,N,Y,N,0,0
+2019-03-02,Columbus,Edmonton,3,Colmbus,S,N,N,N,N,0,0
+2019-03-02,Columbus,Edmonton,3,Edmonton,R,N,N,N,N,0,0
+2019-03-02,Columbus,Edmonton,3,Edmonton,R,Y,N,N,N,0,0
+2019-03-02,Columbus,Edmonton,3,Edmonton,C,Y,Y,N,N,0,0
+2019-03-02,Columbus,Edmonton,3,Columbus,R,N,N,N,Y,0,1
+2019-03-02,Columbus,Edmonton,3,Columbus ,R,N,N,N,Y,0,3
+2018-10-13,Philadelphia,Las Vegas,3,Philadelphia,S,Y,Y,Y,N,0,0
+2018-10-13,Philadelphia,Las Vegas,3,Las Vegas,R,Y,N,N,Y,0,1
+2018-10-13,Philadelphia,Las Vegas,3,Las Vegas,S,Y,N,N,N,0,0
+2018-10-13,Philadelphia,Las Vegas,3,Philadelphia,R,N,Y,N,N,0,0
+2018-10-13,Philadelphia,Las Vegas,3,Las Vegas,R,N,N,Y,Y,0,1
+2018-10-13,Philadelphia,Las Vegas,3,Las Vegas,R,N,Y,Y,N,0,0
+2018-10-13,Philadelphia,Las Vegas,3,Philadelphia,R,Y,N,N,N,0,0
+2018-10-13,Philadelphia,Las Vegas,3,Las Vegas,S,N,N,N,Y,0,0
+2018-10-13,Philadelphia,Las Vegas,3,Las Vegas,R,N,N,N,Y,0,0
+2018-10-13,Philadelphia,Las Vegas,3,Las Vegas,R,Y,N,Y,Y,0,1
+2018-10-13,Philadelphia,Las Vegas,3,Philadelphia,S,Y,N,Y,Y,0,0
+2018-10-13,Philadelphia,Las Vegas,3,Las Vegas,S,N,N,N,Y,0,0
+2018-10-13,Philadelphia,Las Vegas,3,Las Vegas,S,N,N,Y,Y,0,3
+2018-10-13,Philadelphia,Las Vegas,3,Las Vegas,C,Y,N,N,Y,0,0
+2018-10-13,Philadelphia,Las Vegas,3,Philadelphia,R,Y,N,Y,Y,0,0
+2019-02-02,Nashville,Dallas,3,Dallas,R,Y,N,Y,N,2,4
+2019-02-02,Nashville,Dallas,3,Nashville ,S,N,Y,N,N,0,0
+2019-02-02,Nashville,Dallas,3,Dallas,C,N,N,N,N,0,0
+2019-02-02,Nashville,Dallas,3,Dallas,R,N,Y,Y,N,0,0
+2019-02-02,Nashville,Dallas,3,Dallas,R,N,N,Y,Y,0,0
+2019-02-02,Nashville,Dallas,3,Nashville ,C,N,Y,N,N,0,0
+2019-02-02,Nashville,Dallas,3,Nashville ,S,N,N,Y,Y,0,0
+2019-02-02,Nashville,Dallas,3,Dallas,C,N,N,N,N,0,0
+2019-02-02,Nashville,Dallas,3,Dallas,R,N,N,N,N,0,0
+2019-02-02,Nashville,Dallas,3,Dalllas,S,Y,N,Y,Y,2,2
+2019-02-02,Nashville,Dallas,3,Dallas,S,N,N,Y,N,0,0
+2019-02-02,Nashville,Dallas,3,Nashville ,S,N,N,N,N,0,0
+2019-02-14,LA,Vancouver,2,LA,S,N,N,Y,N,0,0
+2019-02-14,LA,Vancouver,2,Vancouver,S,N,N,Y,N,0,0
+2019-02-14,LA,Vancouver,2,LA,C,N,Y,N,N,0,0
+2019-02-14,LA,Vancouver,2,LA,S,N,N,N,Y,0,0
+2019-02-14,LA,Vancouver,2,Vancouver,S,Y,N,Y,N,0,0
+2019-02-14,LA,Vancouver,2,LA,R,N,N,N,Y,1,1
+2019-02-14,LA,Vancouver,2,Vancouver,S,N,N,N,N,0,0
+2019-02-14,LA,Vancouver,2,LA,S,Y,Y,Y,N,0,0
+2019-02-14,LA,Vancouver,2,Vancouver,S,Y,Y,Y,N,0,0
+2019-02-14,LA,Vancouver,2,LA,S,N,N,N,N,0,0
+2019-02-14,LA,Vancouver,2,Vancouver,R,Y,N,N,Y,1,1
+2019-02-14,LA,Vancouver,2,LA,S,N,N,N,N,0,0
+2019-02-14,LA,Vancouver,2,Vancouver,S,N,N,N,N,0,0
+2019-02-14,LA,Vancouver,2,LA,S,Y,N,N,N,0,0
+2019-04-04,Florida,New York I,1,New York I,R,Y,N,N,N,0,0
+2019-04-04,Florida,New York I,1,Florida,S,Y,N,N,N,0,0
+2019-04-04,Florida,New York I,1,New York I,S,N,N,Y,N,0,0
+2019-04-04,Florida,New York I,1,Florida,S,Y,N,Y,N,0,0
+2019-04-04,Florida,New York I,1,New York I,R,Y,N,N,N,0,0
+2019-04-04,Florida,New York I,1,New York I,C,Y,N,N,Y,0,0
+2019-04-04,Florida,New York I,1,New York I,S,N,N,Y,Y,1,1
+2019-04-04,Florida,New York I,1,Florida,S,N,N,Y,N,0,0
+2019-04-04,Florida,New York I,1,Florida,C,N,N,N,N,0,0
+2019-04-04,Florida,New York I,1,New York I,S,N,N,N,Y,0,1
+2019-04-04,Florida,New York I,1,Florida,R,Y,N,Y,Y,0,0
+2019-04-04,Florida,New York I,1,New York I,S,N,N,N,Y,1,1
+2019-04-04,Florida,New York I,1,New York I,S,N,N,N,N,0,0
+2019-04-04,Florida,New York I,1,New York I,S,Y,Y,Y,N,0,0
+2019-04-04,Florida,New York I,1,New York I,S,N,N,N,N,0,0
+2019-04-04,Florida,New York I,1,Florida,R,Y,N,N,Y,0,0
+2019-04-04,Florida,New York I,1,New York I,S,Y,N,N,Y,1,2
+2019-04-04,Florida,New York I,1,New York I,R,N,N,Y,Y,0,0
+2019-04-04,Florida,New York I,1,New York I,S,N,Y,N,N,0,0
+2019-04-04,Florida,New York I,1,New York I,S,Y,N,N,Y,0,1
+2019-04-04,Florida,New York I,1,New York I,S,N,N,N,N,0,0
+2019-04-04,Florida,New York I,1,Florida,S,N,N,Y,N,0,0
+2019-04-04,Florida,New York I,1,Florda,S,Y,Y,Y,N,0,0
+2018-10-03,San Jose,Anaheim,2,San Jose,R,N,N,N,Y,1,2
+2018-10-03,San Jose,Anaheim,2,San Jose,R,N,N,Y,N,0,0
+2018-10-03,San Jose,Anaheim,2,San Jose,S,N,N,N,Y,0,0
+2018-10-03,San Jose,Anaheim,2,San Jose,S,N,N,N,N,0,0
+2018-10-03,San Jose,Anaheim,2,Anaheim,S,Y,Y,Y,N,0,0
+2018-10-03,San Jose,Anaheim,2,San Jose,S,Y,N,N,Y,0,0
+2018-10-03,San Jose,Anaheim,2,San Jose,R,N,N,Y,N,0,0
+2018-10-03,San Jose,Anaheim,2,Anaheim,S,Y,N,Y,N,0,0
+2018-10-03,San Jose,Anaheim,2,San Jose,S,N,N,N,Y,0,1
+2018-10-03,San Jose,Anaheim,2,Anaheim,R,N,Y,N,N,0,0
+2018-10-03,San Jose,Anaheim,2,San Jose,S,N,N,N,N,0,0
+2018-10-03,San Jose,Anaheim,2,Anaheim,S,Y,Y,Y,N,0,0
+2018-10-03,San Jose,Anaheim,2,San Jose,S,N,N,N,Y,1,1
+2019-02-18,Chicago,Ottawa,3,Chicago,S,Y,N,N,N,0,0
+2019-02-18,Chicago,Ottawa,3,Chicago,R,N,Y,N,N,0,0
+2019-02-18,Chicago,Ottawa,3,Ottawa,R,N,N,N,N,0,0
+2019-02-18,Chicago,Ottawa,3,Chicago,S,Y,N,N,N,0,0
+2019-02-18,Chicago,Ottawa,3,Ottawa,C,N,Y,N,N,0,0
+2019-02-18,Chicago,Ottawa,3,Chicago,R,N,N,N,Y,0,0
+2019-02-18,Chicago,Ottawa,3,Chicago,S,Y,N,Y,N,0,0
+2019-02-18,Chicago,Ottawa,3,Chicago,S,Y,N,N,N,0,0
+2019-02-18,Chicago,Ottawa,3,Chicago,S,Y,N,N,N,0,0
+2019-02-18,Chicago,Ottawa,3,Chicago,S,N,N,N,N,0,0
+2019-02-18,Chicago,Ottawa,3,Chicago,S,N,N,Y,Y,0,0
+2019-02-18,Chicago,Ottawa,3,Ottawa,S,N,Y,Y,N,0,0
+2019-02-18,Chicago,Ottawa,3,Ottawa,S,N,N,Y,N,0,0
+2019-02-18,Chicago,Ottawa,3,Chicago,S,Y,N,Y,N,0,0
+2019-02-18,Chicago,Ottawa,3,Chicago,R,N,N,Y,Y,0,0
+2019-02-18,Chicago,Ottawa,3,Chicago,S,Y,Y,Y,Y,0,0
+2019-02-18,Chicago,Ottawa,3,Ottawa,S,Y,N,N,N,0,0
+2019-02-18,Chicago,Ottawa,3,Ottawa,C,Y,N,Y,N,0,0
+2018-12-22,Boston,Nashville,3,Nashville ,C,Y,N,N,N,0,0
+2018-12-22,Boston,Nashville,3,Nashville ,S,Y,N,Y,N,0,0
+2018-12-22,Boston,Nashville,3,Nashville ,C,Y,N,N,N,0,0
+2018-12-22,Boston,Nashville,3,Nashville ,S,N,Y,Y,N,0,0
+2018-12-22,Boston,Nashville,3,Boston,S,N,N,Y,N,0,0
+2018-12-22,Boston,Nashville,3,Bostom,R,N,N,N,Y,0,0
+2018-12-22,Boston,Nashville,3,Nashville ,S,Y,N,Y,Y,1,1
+2018-12-22,Boston,Nashville,3,Boston,R,N,N,N,Y,0,0
+2018-12-22,Boston,Nashville,3,Nashville ,R,N,N,N,Y,0,1
+2018-12-22,Boston,Nashville,3,Boston,R,Y,N,N,Y,0,1
+2018-12-22,Boston,Nashville,3,Nashville ,S,N,N,N,Y,0,0
+2018-12-22,Boston,Nashville,3,Nashville ,C,Y,Y,N,N,0,0
+2018-12-22,Boston,Nashville,3,Nashville ,S,Y,N,Y,Y,0,2
+2018-12-11,Carolina,Toronto,1,Carolina,C,N,N,N,Y,1,2
+2018-12-11,Carolina,Toronto,1,Carolina,S,N,N,Y,N,0,0
+2018-12-11,Carolina,Toronto,1,Carolina,S,Y,N,N,Y,0,1
+2018-12-11,Carolina,Toronto,1,Carolina,S,N,N,N,Y,0,1
+2018-12-11,Carolina,Toronto,1,Toronto,S,N,N,Y,Y,0,1
+2018-12-11,Carolina,Toronto,1,Carolina,R,N,N,N,N,0,0
+2018-12-11,Carolina,Toronto,1,Carolina,S,N,N,Y,N,0,0
+2018-12-11,Carolina,Toronto,1,Carolina,S,Y,Y,N,N,0,0
+2018-12-11,Carolina,Toronto,1,Carolina,C,N,N,N,Y,1,1
+2018-12-11,Carolina,Toronto,1,Toronto,R,N,N,Y,N,0,0
+2018-12-11,Carolina,Toronto,1,Toronto,R,Y,N,Y,N,0,0
+2018-12-11,Carolina,Toronto,1,Carolina,R,Y,N,Y,Y,1,1
+2018-12-11,Carolina,Toronto,1,Toronto,R,N,N,Y,Y,0,1
+2018-12-11,Carolina,Toronto,1,Carolina,C,N,Y,N,Y,0,0
+2018-12-11,Carolina,Toronto,1,Carolina,S,Y,N,N,N,0,0
+2018-12-11,Carolina,Toronto,1,Carolina,R,N,N,Y,N,0,0
+2019-03-30,Nashville,Columbus,1,Nashville ,R,N,N,Y,N,0,0
+2019-03-30,Nashville,Columbus,1,Nashville ,C,Y,N,Y,N,0,0
+2019-03-30,Nashville,Columbus,1,Columbus,C,Y,N,N,Y,0,0
+2019-03-30,Nashville,Columbus,1,Nashville ,R,Y,Y,Y,N,0,0
+2019-03-30,Nashville,Columbus,1,Columbus,R,Y,N,N,Y,0,1
+2019-03-30,Nashville,Columbus,1,Columbus,R,N,N,N,N,0,0
+2019-03-30,Nashville,Columbus,1,Nashville ,R,Y,N,Y,N,0,0
+2019-03-30,Nashville,Columbus,1,Nashville ,S,Y,N,N,N,0,0
+2019-03-30,Nashville,Columbus,1,Nashville ,C,Y,N,N,N,0,0
+2019-03-30,Nashville,Columbus,1,Columbus,S,N,N,Y,N,0,0
+2019-03-30,Nashville,Columbus,1,Columbus,R,Y,N,Y,N,0,0
+2019-03-30,Nashville,Columbus,1,Columbus,S,N,N,N,N,0,0
+2019-03-30,Nashville,Columbus,1,Columbus,S,N,Y,N,N,0,0
+2019-03-30,Nashville,Columbus,1,Nashville ,R,N,N,Y,N,0,0
+2019-03-30,Nashville,Columbus,1,Nashville ,S,N,N,N,N,0,0
+2019-03-30,Nashville,Columbus,1,Nashville ,R,N,N,N,N,0,0
+2019-03-30,Nashville,Columbus,1,Nashville ,S,N,N,Y,N,0,0
+2019-03-30,Nashville,Columbus,1,Columbus,C,N,N,N,Y,0,0
+2019-03-30,Nashville,Columbus,1,Nashville ,R,N,N,N,N,0,0
+2019-03-30,Nashville,Columbus,1,Nashville ,S,Y,N,Y,Y,3,4
+2019-11-04,Anaheim,Columbus,3,Columbus,S,N,N,Y,Y,1,2
+2019-11-04,Anaheim,Columbus,3,Anaheim,R,N,N,Y,Y,0,0
+2019-11-04,Anaheim,Columbus,3,Columbus,S,Y,Y,Y,Y,0,0
+2019-11-04,Anaheim,Columbus,3,Columbus,S,N,N,Y,Y,1,3
+2019-11-04,Anaheim,Columbus,3,Columbus,R,Y,N,N,N,0,0
+2019-11-04,Anaheim,Columbus,3,Anaheim,R,Y,N,N,N,0,0
+2019-11-04,Anaheim,Columbus,3,Anaheim,R,N,N,N,Y,0,0
+2019-11-04,Anaheim,Columbus,3,Anaheim,R,Y,N,N,N,0,0
+2019-11-04,Anaheim,Columbus,3,Columbus,R,N,N,N,N,0,0
+2019-11-04,Anaheim,Columbus,3,Anaheim,R,N,N,N,N,0,0
+2019-11-04,Anaheim,Columbus,3,Columbus,S,N,N,Y,N,0,0
+2019-11-04,Anaheim,Columbus,3,Anaheim,R,Y,N,Y,N,0,0
+2019-11-04,Anaheim,Columbus,3,Columbus,S,Y,N,N,Y,0,0
+2019-01-06,Pittsburgh,Chicago,2,Chicago,S,N,N,N,N,0,0
+2019-01-06,Pittsburgh,Chicago,2,Pittsburgh,S,Y,N,N,N,0,0
+2019-01-06,Pittsburgh,Chicago,2,Pittsburgh,C,N,N,N,Y,0,0
+2019-01-06,Pittsburgh,Chicago,2,Pittsburgh,S,Y,Y,Y,N,0,0
+2019-01-06,Pittsburgh,Chicago,2,Chicago,S,N,N,Y,N,0,0
+2019-01-06,Pittsburgh,Chicago,2,Pittsburgh,R,Y,N,N,Y,0,1
+2019-01-06,Pittsburgh,Chicago,2,Pittsburgh,S,N,N,Y,N,0,0
+2019-01-06,Pittsburgh,Chicago,2,Pittsburgh,S,Y,N,N,N,0,0
+2019-01-06,Pittsburgh,Chicago,2,Chicago,S,Y,N,Y,N,0,0
+2019-01-06,Pittsburgh,Chicago,2,Pittsburgh,S,N,N,Y,Y,1,1
+2019-01-06,Pittsburgh,Chicago,2,Chicago,S,N,N,N,Y,1,2
+2019-01-06,Pittsburgh,Chicago,2,Pittsburgh,S,N,N,N,Y,0,1
+2019-01-06,Pittsburgh,Chicago,2,Pittsburgh,R,N,N,N,Y,0,0
+2018-10-13,Montreal,Pittsburgh,2,Pittsburgh,S,Y,N,N,N,0,0
+2018-10-13,Montreal,Pittsburgh,2,Montreal,S,Y,N,Y,N,0,0
+2018-10-13,Montreal,Pittsburgh,2,Montreal,R,Y,N,N,Y,2,3
+2018-10-13,Montreal,Pittsburgh,2,Montreal,S,N,N,N,N,0,0
+2018-10-13,Montreal,Pittsburgh,2,Montreal,S,N,N,N,N,0,0
+2018-10-13,Montreal,Pittsburgh,2,Pittsburgh,S,Y,N,Y,Y,0,0
+2018-10-13,Montreal,Pittsburgh,2,Pittsburgh,R,N,N,N,N,0,0
+2018-10-13,Montreal,Pittsburgh,2,Pittsburgh,S,N,N,N,N,0,0
+2018-10-13,Montreal,Pittsburgh,2,Montreal,R,N,N,N,Y,0,1
+2018-10-13,Montreal,Pittsburgh,2,Montreal,S,Y,N,Y,Y,0,1
+2018-10-13,Montreal,Pittsburgh,2,Pittsburgh,R,Y,N,Y,Y,0,0
+2018-10-13,Montreal,Pittsburgh,2,Pittsburgh,R,N,Y,Y,N,0,0
+2018-10-13,Montreal,Pittsburgh,2,Montreal,R,N,Y,N,N,0,0
+2018-10-13,Montreal,Pittsburgh,2,Pittsburgh,R,N,N,N,Y,0,0
+2018-10-13,Montreal,Pittsburgh,2,Pittsburgh,S,N,N,N,Y,1,1
+2018-10-13,Montreal,Pittsburgh,2,Pittsburgh,C,N,N,N,N,0,0
+2018-10-13,Montreal,Pittsburgh,2,Pittsburgh,C,N,N,N,N,0,0
+2018-10-13,Montreal,Pittsburgh,2,Montreal,S,Y,Y,Y,N,0,0
+2018-10-11,Boston,Edmonton,2,Edmonton,S,N,N,N,N,0,0
+2018-10-11,Boston,Edmonton,2,Boston,S,N,N,N,N,0,0
+2018-10-11,Boston,Edmonton,2,Edmonton,S,N,N,Y,N,0,0
+2018-10-11,Boston,Edmonton,2,Boston,R,N,N,N,Y,0,0
+2018-10-11,Boston,Edmonton,2,Boston,S,N,Y,Y,N,0,0
+2018-10-11,Boston,Edmonton,2,Boston,S,Y,N,N,N,0,0
+2018-10-11,Boston,Edmonton,2,Edmonton,S,N,Y,N,N,0,0
+2018-10-11,Boston,Edmonton,2,Boston,C,N,N,N,Y,0,0
+2018-10-11,Boston,Edmonton,2,Boston,R,N,N,N,N,0,0
+2018-10-11,Boston,Edmonton,2,Edmonton,R,N,N,N,N,0,0
+2018-10-11,Boston,Edmonton,2,Boston,R,N,Y,Y,N,0,0
+2018-10-11,Boston,Edmonton,2,Edmonton,S,Y,N,N,Y,0,0
+2018-10-11,Boston,Edmonton,2,Boston,S,N,N,Y,Y,0,0
+2018-10-11,Boston,Edmonton,2,Boston,R,N,Y,N,Y,0,0
+2018-10-11,Boston,Edmonton,2,Boston,R,N,N,N,Y,0,0
+2018-10-11,Boston,Edmonton,2,Edmonton,S,Y,N,N,Y,1,1
+2018-10-11,Boston,Edmonton,2,Edmonton,S,N,N,N,Y,0,0
+2018-10-11,Boston,Edmonton,2,Edmonton,S,N,N,Y,N,0,0
+2018-10-11,Boston,Edmonton,2,Boston,S,N,Y,N,Y,0,0
+2018-10-11,Detroit,Toronto,3,Detroit,S,Y,N,Y,N,0,0
+2018-10-11,Detroit,Toronto,3,Toronto,S,N,N,N,N,0,0
+2018-10-11,Detroit,Toronto,3,Detroit,S,Y,Y,Y,Y,0,0
+2018-10-11,Detroit,Toronto,3,Toronto,S,N,N,N,N,0,0
+2018-10-11,Detroit,Toronto,3,Detroit,C,N,Y,N,N,0,0
+2018-10-11,Detroit,Toronto,3,Toronto,C,N,N,N,Y,0,0
+2018-10-11,Detroit,Toronto,3,Toronto,C,Y,N,N,N,0,0
+2018-10-11,Detroit,Toronto,3,Detroit,S,N,N,Y,Y,1,1
+2018-10-11,Detroit,Toronto,3,Detroit,S,Y,N,Y,Y,0,0
+2018-10-11,Detroit,Toronto,3,Toronto,R,N,N,N,N,0,0
+2018-10-11,Detroit,Toronto,3,Toronto,S,Y,N,Y,N,0,0
+2018-10-11,Detroit,Toronto,3,Toronto,R,Y,N,N,N,0,0
+2018-10-11,Detroit,Toronto,3,Toronto,S,N,Y,N,N,0,0
+2018-10-11,Detroit,Toronto,3,Toronto,R,N,N,N,N,0,0
+2018-10-11,Detroit,Toronto,3,Detroit,R,Y,N,N,N,0,0
+2018-10-11,Detroit,Toronto,3,Toronto,S,Y,N,Y,N,0,0
+2018-10-11,Detroit,Toronto,3,Toronto,R,N,N,N,Y,1,1
+2018-10-11,Detroit,Toronto,3,Toronto,S,N,N,N,N,0,0
+2018-10-11,Detroit,Toronto,3,Detroit,R,Y,Y,N,N,0,0
+2018-10-11,Detroit,Toronto,3,Detroit,C,Y,N,N,Y,0,0
+2019-03-16,Minnesota,New York R,1,New York R,S,N,N,Y,N,0,0
+2019-03-16,Minnesota,New York R,1,New York R,C,N,Y,N,Y,0,0
+2019-03-16,Minnesota,New York R,1,New York R,S,N,N,N,Y,0,1
+2019-03-16,Minnesota,New York R,1,Minnesota,S,N,N,N,Y,0,1
+2019-03-16,Minnesota,New York R,1,New York R,R,N,N,N,Y,1,1
+2019-03-16,Minnesota,New York R,1,Minnesota,R,N,N,Y,Y,0,3
+2019-03-16,Minnesota,New York R,1,New York R,S,Y,Y,Y,N,0,0
+2019-03-16,Minnesota,New York R,1,New York R,S,Y,Y,Y,N,0,0
+2019-03-16,Minnesota,New York R,1,New York R,R,Y,Y,Y,N,0,0
+2019-03-16,Minnesota,New York R,1,Minnesota,C,N,N,N,Y,0,0
+2019-03-16,Minnesota,New York R,1,New York R,S,Y,N,N,Y,0,0
+2019-03-16,Minnesota,New York R,1,Minnesota,S,Y,N,Y,N,0,0
+2018-10-06,Toronto,Ottawa,2,Ottawa,S,Y,N,N,N,0,0
+2018-10-06,Toronto,Ottawa,2,Ottawa,S,Y,N,Y,N,0,0
+2018-10-06,Toronto,Ottawa,2,Ottawa,C,N,Y,Y,N,0,0
+2018-10-06,Toronto,Ottawa,2,Ottawa,S,Y,N,N,Y,0,0
+2018-10-06,Toronto,Ottawa,2,Toronto,S,N,N,N,N,0,0
+2018-10-06,Toronto,Ottawa,2,Toronto,S,N,N,Y,N,0,0
+2018-10-06,Toronto,Ottawa,2,Toronto,S,Y,N,Y,Y,0,1
+2018-10-06,Toronto,Ottawa,2,Ottawa,S,N,N,N,N,0,0
+2018-10-06,Toronto,Ottawa,2,Toronto,S,N,N,N,N,0,0
+2018-10-06,Toronto,Ottawa,2,Ottawa,R,N,N,N,Y,0,0
+2018-10-06,Toronto,Ottawa,2,Ottawa,S,Y,Y,N,N,0,0
+2018-10-06,Toronto,Ottawa,2,Ottawa,S,Y,Y,N,N,0,0
+2018-10-06,Toronto,Ottawa,2,Toronto,R,N,N,N,N,0,0
+2018-10-06,Toronto,Ottawa,2,Toronto,S,Y,N,Y,Y,1,1
+2018-10-06,Toronto,Ottawa,2,Toronto,R,N,N,N,N,0,0
+2018-10-06,Toronto,Ottawa,2,Toronto,R,Y,Y,N,N,0,0
+2018-10-06,Toronto,Ottawa,2,Toronto,R,N,N,N,N,0,0
+2018-10-06,Toronto,Ottawa,2,Ottawa,S,N,N,N,Y,1,1
+2018-10-06,Toronto,Ottawa,2,Toronto,S,N,N,Y,N,0,0
+2019-01-31,Winnipeg,Columbus,1,Winnipeg,S,Y,N,N,Y,0,0
+2019-01-31,Winnipeg,Columbus,1,Columbus,S,Y,N,Y,N,0,0
+2019-01-31,Winnipeg,Columbus,1,Columbus,S,Y,N,N,Y,1,1
+2019-01-31,Winnipeg,Columbus,1,Winnipeg,C,N,Y,N,N,0,0
+2019-01-31,Winnipeg,Columbus,1,Columbus,S,Y,N,N,Y,0,0
+2019-01-31,Winnipeg,Columbus,1,Winnipeg,C,N,Y,N,N,0,0
+2019-01-31,Winnipeg,Columbus,1,Winnipeg,S,Y,Y,Y,Y,0,0
+2019-01-31,Winnipeg,Columbus,1,Winnipeg,S,Y,N,Y,Y,0,1
+2019-01-31,Winnipeg,Columbus,1,Columbus,S,Y,N,N,N,0,0
+2019-01-31,Winnipeg,Columbus,1,Winnipeg,S,Y,N,Y,Y,0,0
+2019-01-31,Winnipeg,Columbus,1,Winnipeg,S,Y,N,N,N,0,0
+2019-01-31,Winnipeg,Columbus,1,Columbus,S,N,N,N,Y,0,0
+2019-01-31,Winnipeg,Columbus,1,Columbus,R,Y,N,Y,N,0,0
+2019-01-31,Winnipeg,Columbus,1,Columbus,R,Y,N,N,N,0,0
+2019-01-31,Winnipeg,Columbus,1,Winnipeg,S,Y,N,N,N,0,0
+2019-01-31,Winnipeg,Columbus,1,Columbus,S,N,N,Y,N,0,0
+2019-01-31,Winnipeg,Columbus,1,Winnipeg,S,N,N,N,Y,1,1
+2019-01-31,Winnipeg,Columbus,1,Winnipeg,S,N,Y,Y,N,0,0
+2019-01-31,Winnipeg,Columbus,1,Columbus,S,N,N,N,Y,0,0
+2019-01-31,Winnipeg,Columbus,1,Columbus,R,N,N,N,Y,0,1
+2019-01-31,Winnipeg,Columbus,1,Winnipeg,R,N,Y,N,N,0,0
+2019-01-31,Winnipeg,Columbus,1,Columbus,R,N,N,N,N,0,0
+2018-12-07,Anaheim,Carolina,2,Carolina,R,N,N,Y,N,0,0
+2018-12-07,Anaheim,Carolina,2,Anaheim,S,Y,N,Y,Y,0,1
+2018-12-07,Anaheim,Carolina,2,Carolina,R,N,N,N,Y,0,0
+2018-12-07,Anaheim,Carolina,2,Carolina,C,N,Y,N,N,0,0
+2018-12-07,Anaheim,Carolina,2,Anaheim,S,N,Y,Y,N,0,0
+2018-12-07,Anaheim,Carolina,2,Anaheim,C,Y,N,Y,N,0,0
+2018-12-07,Anaheim,Carolina,2,Carolina,R,N,N,N,Y,0,0
+2018-12-07,Anaheim,Carolina,2,Anaheim,C,N,N,N,Y,0,0
+2018-12-07,Anaheim,Carolina,2,Carolina,R,Y,N,N,Y,0,0
+2018-12-07,Anaheim,Carolina,2,Anaheim,S,N,Y,Y,N,0,0
+2018-12-07,Anaheim,Carolina,2,Carolina,C,N,N,N,N,0,0
+2018-12-07,Anaheim,Carolina,2,Carolina,S,Y,Y,Y,N,0,0
+2018-12-07,Anaheim,Carolina,2,Carolina,R,N,N,Y,N,0,0
+2018-12-07,Anaheim,Carolina,2,Anaheim,S,N,N,N,N,0,0
+2018-12-07,Anaheim,Carolina,2,Carolina,S,Y,N,N,N,0,0
+2018-12-07,Anaheim,Carolina,2,Carolina,R,N,N,N,Y,1,1
+2019-02-12,Buffalo,New York I,3,New York I,S,Y,N,Y,N,0,0
+2019-02-12,Buffalo,New York I,3,Buffalo,S,N,N,N,N,0,0
+2019-02-12,Buffalo,New York I,3,New York I,R,N,Y,Y,N,0,0
+2019-02-12,Buffalo,New York I,3,Buffalo,R,N,N,N,Y,0,0
+2019-02-12,Buffalo,New York I,3,New York I,S,N,N,N,Y,0,0
+2019-02-12,Buffalo,New York I,3,New York I,R,Y,N,N,N,0,0
+2019-02-12,Buffalo,New York I,3,Buffalo,S,Y,N,Y,Y,0,0
+2019-02-12,Buffalo,New York I,3,New York I,S,N,N,Y,Y,0,0
+2019-02-12,Buffalo,New York I,3,Buffalo,S,N,Y,Y,N,0,0
+2019-02-12,Buffalo,New York I,3,Buffalo,R,N,N,N,N,0,0
+2019-02-12,Buffalo,New York I,3,Buffalo,S,Y,Y,Y,N,0,0
+2019-02-12,Buffalo,New York I,3,New York I ,R,N,N,N,N,0,0
+2019-02-12,Buffalo,New York I,3,Buffalo,R,Y,N,Y,N,0,0
+2019-02-12,Buffalo,New York I,3,New York I ,R,Y,N,Y,N,0,0
+2019-02-12,Buffalo,New York I,3,New York I ,S,N,N,N,N,0,0
+2019-02-12,Buffalo,New York I,3,Buffalo,R,N,N,N,N,0,0
+2019-02-12,Buffalo,New York I,3,Buffalo,R,N,Y,N,N,0,0
+2019-02-12,Buffalo,New York I,3,Buffalo,R,N,N,Y,N,0,0
+2019-02-12,Buffalo,New York I,3,Buffalo,R,N,Y,N,N,0,0
+2019-02-12,Buffalo,New York I,3,Buffalo,R,Y,N,N,Y,0,0
+2019-02-12,Buffalo,New York I,3,New York I,R,N,N,Y,N,0,0
+2019-02-12,Buffalo,New York I,3,New York I,S,Y,N,N,N,0,0
+2019-02-12,Buffalo,New York I,3,New York I,S,N,N,N,Y,0,1
+2019-02-12,Buffalo,New York I,3,Buffalo,C,N,N,N,Y,1,1
+2018-10-13,Ottawa,LA,3,Ottawa,S,Y,N,Y,N,0,0
+2018-10-13,Ottawa,LA,3,Ottawa,S,N,N,N,N,0,0
+2018-10-13,Ottawa,LA,3,Ottawa,R,Y,Y,N,N,0,0
+2018-10-13,Ottawa,LA,3,LA,R,N,N,N,N,0,0
+2018-10-13,Ottawa,LA,3,Ottawa,S,Y,N,Y,N,0,0
+2018-10-13,Ottawa,LA,3,LA,S,N,N,N,Y,0,0
+2018-10-13,Ottawa,LA,3,Ottawa,S,Y,N,N,N,0,0
+2018-10-13,Ottawa,LA,3,LA,C,Y,N,N,N,0,0
+2018-10-13,Ottawa,LA,3,LA,S,N,N,N,N,0,0
+2018-10-13,Ottawa,LA,3,LA,R,N,Y,N,N,0,0
+2018-10-13,Ottawa,LA,3,LA,S,N,N,N,N,0,0
+2018-10-13,Ottawa,LA,3,LA,S,Y,N,N,Y,0,0
+2018-10-13,Ottawa,LA,3,Ottawa,S,N,N,Y,N,0,0
+2018-10-13,Ottawa,LA,3,Ottawa,C,Y,N,N,N,0,0
+2018-10-13,Ottawa,LA,3,Ottawa,S,N,Y,N,N,0,0
+2018-10-13,Ottawa,LA,3,LA,S,Y,Y,N,N,0,0
+2018-10-13,Ottawa,LA,3,Ottawa,R,N,N,N,N,0,0
+2018-10-13,Ottawa,LA,3,LA,S,N,N,N,Y,1,2
+2018-10-13,Ottawa,LA,3,LA,R,N,Y,N,N,0,0
+2018-10-13,Ottawa,LA,3,Ottawa,S,N,N,N,Y,0,1
+2018-10-13,Ottawa,LA,3,LA,S,N,N,N,N,0,0
+2018-10-13,Ottawa,LA,3,LA,S,N,N,N,N,0,0
+2019-03-13,Toronto,Chicago,3,Toronto,S,N,N,Y,Y,1,1
+2019-03-13,Toronto,Chicago,3,Chicago,S,N,Y,N,N,0,0
+2019-03-13,Toronto,Chicago,3,Chicago,S,N,Y,N,N,0,0
+2019-03-13,Toronto,Chicago,3,Toronto,S,Y,N,N,N,0,0
+2019-03-13,Toronto,Chicago,3,Chicago,S,Y,Y,N,N,0,0
+2019-03-13,Toronto,Chicago,3,Chicago,R,N,N,N,Y,0,1
+2019-03-13,Toronto,Chicago,3,Toronto,R,N,N,N,Y,0,1
+2019-03-13,Toronto,Chicago,3,Chicago,S,N,Y,Y,N,0,0
+2019-03-13,Toronto,Chicago,3,Chicago,S,N,N,Y,N,0,0
+2019-03-13,Toronto,Chicago,3,Toronto,S,Y,N,N,Y,0,0
+2019-03-13,Toronto,Chicago,3,Toronto,C,N,N,N,N,0,0
+2019-03-13,Toronto,Chicago,3,Chicago,R,N,N,N,N,0,0
+2019-03-13,Toronto,Chicago,3,Chicago,S,N,N,Y,N,0,0
+2019-03-13,Toronto,Chicago,3,Toronto,S,N,N,N,Y,3,4
+2019-03-13,Toronto,Chicago,3,Chicago,R,N,N,Y,N,0,0
+2019-03-13,Toronto,Chicago,3,Toronto,S,N,N,Y,N,0,0
+2019-03-13,Toronto,Chicago,3,Chicago,S,N,N,N,Y,1,1
+2019-03-13,Toronto,Chicago,3,Toronto,C,Y,N,N,N,0,0
+2019-03-13,Toronto,Chicago,3,Toronto,R,Y,N,Y,N,0,0
+2019-03-13,Toronto,Chicago,3,Chicago,R,N,N,Y,N,0,0
+2019-03-13,Toronto,Chicago,3,Toronto,S,Y,N,Y,N,0,0
+2018-12-09,St. Louis,Vancouver,3,St. Louis,S,Y,N,Y,Y,0,0
+2018-12-09,St. Louis,Vancouver,3,St. Louis,S,N,Y,N,N,0,0
+2018-12-09,St. Louis,Vancouver,3,St. Louis,S,N,N,Y,N,0,0
+2018-12-09,St. Louis,Vancouver,3,Vancouver,S,Y,N,Y,N,0,0
+2018-12-09,St. Louis,Vancouver,3,St. Louis,S,N,N,N,Y,0,0
+2018-12-09,St. Louis,Vancouver,3,St. Louis,S,Y,Y,Y,Y,0,0
+2018-12-09,St. Louis,Vancouver,3,Vancouver,C,N,N,N,Y,1,2
+2018-12-09,St. Louis,Vancouver,3,Vancouver,S,N,N,N,N,0,0
+2018-12-09,St. Louis,Vancouver,3,Vancouver,S,N,N,Y,N,0,0
+2018-12-09,St. Louis,Vancouver,3,St. Louis,S,N,N,N,N,0,0
+2018-12-09,St. Louis,Vancouver,3,St. Louis,S,Y,N,Y,N,0,0
+2018-12-09,St. Louis,Vancouver,3,St. Louis,R,Y,N,N,Y,0,1
+2018-12-09,St. Louis,Vancouver,3,St. Louis,R,N,N,N,Y,0,1
+2018-12-09,St. Louis,Vancouver,3,St. Louis,C,N,N,N,N,0,0
+2018-12-09,St. Louis,Vancouver,3,Vancouver,S,Y,Y,Y,N,0,0
+2018-12-09,St. Louis,Vancouver,3,Vancouver,S,Y,N,Y,N,0,0
+2018-12-09,St. Louis,Vancouver,3,Vancouver,S,Y,N,N,N,0,0
+2018-12-09,St. Louis,Vancouver,3,St. Louis,S,Y,N,N,Y,1,1
+2018-12-09,St. Louis,Vancouver,3,Vancouver,S,N,N,Y,Y,0,1
+2018-12-09,St. Louis,Vancouver,3,St. Louis,S,Y,N,N,N,0,0
+2018-12-09,St. Louis,Vancouver,3,Vancouver,S,N,Y,Y,N,0,0
+2018-12-09,St. Louis,Vancouver,3,St. Louis,R,Y,N,Y,Y,0,0
+2019-02-16,New York I,Edmonton,2,New York I,S,Y,Y,N,N,0,0
+2019-02-16,New York I,Edmonton,2,Edmonton,R,N,N,N,N,0,0
+2019-02-16,New York I,Edmonton,2,Edmonton,R,Y,N,N,Y,0,0
+2019-02-16,New York I,Edmonton,2,Edmonton,R,N,Y,N,N,0,0
+2019-02-16,New York I,Edmonton,2,Edmonton,S,N,N,N,N,0,0
+2019-02-16,New York I,Edmonton,2,Edmonton,R,N,N,N,Y,0,1
+2019-02-16,New York I,Edmonton,2,Edmonton,R,Y,Y,Y,N,0,0
+2019-02-16,New York I,Edmonton,2,New York I,R,Y,N,Y,N,0,0
+2019-02-16,New York I,Edmonton,2,Edmonton,S,Y,Y,N,N,0,0
+2019-02-16,New York I,Edmonton,2,Edmonton,R,N,N,Y,N,0,0
+2019-02-16,New York I,Edmonton,2,New York I,S,Y,N,N,N,0,0
+2019-02-16,New York I,Edmonton,2,Edmonton,S,N,N,N,Y,1,1
+2019-03-03,Minnesota,Nashville,3,Nashville ,R,Y,N,N,Y,0,1
+2019-03-03,Minnesota,Nashville,3,Minnesota,S,Y,Y,Y,Y,0,1
+2019-03-03,Minnesota,Nashville,3,Minnesota,S,Y,N,Y,N,0,0
+2019-03-03,Minnesota,Nashville,3,Minnesota,S,N,Y,Y,N,0,0
+2019-03-03,Minnesota,Nashville,3,Nashville ,S,N,N,N,Y,0,0
+2019-03-03,Minnesota,Nashville,3,Minnesota,R,N,N,N,N,0,0
+2019-03-03,Minnesota,Nashville,3,Nashville ,S,Y,Y,Y,Y,1,2
+2019-03-03,Minnesota,Nashville,3,Nashville ,S,N,N,Y,N,0,0
+2019-03-03,Minnesota,Nashville,3,Minnesota,S,N,N,Y,N,0,0
+2019-03-03,Minnesota,Nashville,3,Minnesota,S,N,N,Y,N,0,0
+2019-03-03,Minnesota,Nashville,3,Minnesota,R,Y,N,N,N,0,0
+2019-03-03,Minnesota,Nashville,3,Minnesota,S,Y,N,Y,N,0,0
+2019-03-03,Minnesota,Nashville,3,Minnesota,C,N,N,N,N,0,0
+2019-03-03,Minnesota,Nashville,3,Nashville ,S,Y,N,Y,Y,0,0
+2019-03-03,Minnesota,Nashville,3,Minnesota,S,N,Y,Y,N,0,0
+2019-03-03,Minnesota,Nashville,3,Nashville ,S,Y,Y,Y,N,0,0
+2019-03-03,Minnesota,Nashville,3,Minnesota,R,N,N,Y,N,0,0
+2019-03-20,Buffalo,Toronto,1,Toronto,S,N,N,N,Y,0,1
+2019-03-20,Buffalo,Toronto,1,Buffalo,S,N,Y,Y,N,0,0
+2019-03-20,Buffalo,Toronto,1,Buffalo,R,Y,N,Y,N,0,0
+2019-03-20,Buffalo,Toronto,1,Buffalo,S,N,N,N,N,0,0
+2019-03-20,Buffalo,Toronto,1,Toronto,R,N,N,Y,N,0,0
+2019-03-20,Buffalo,Toronto,1,Buffalo,R,N,N,Y,Y,2,3
+2019-03-20,Buffalo,Toronto,1,Toronto,S,N,N,N,Y,2,3
+2019-03-20,Buffalo,Toronto,1,Buffalo,S,N,N,N,N,0,0
+2019-03-20,Buffalo,Toronto,1,Toronto,S,Y,N,N,Y,0,0
+2019-03-20,Buffalo,Toronto,1,Buffalo,R,Y,N,N,N,0,0
+2019-03-20,Buffalo,Toronto,1,Buffalo,S,Y,Y,Y,N,0,0
+2019-03-20,Buffalo,Toronto,1,Buffalo,R,Y,N,N,N,0,0
+2019-03-20,Buffalo,Toronto,1,Toronto,S,N,Y,N,N,0,0
+2019-03-20,Buffalo,Toronto,1,Buffalo,S,Y,Y,Y,N,0,0
+2019-03-20,Buffalo,Toronto,1,Toronto,S,Y,N,N,Y,0,0
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
